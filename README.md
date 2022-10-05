@@ -10,7 +10,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 #### Languages:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/PHP-0078d7.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
