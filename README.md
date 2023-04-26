@@ -19,7 +19,7 @@
 <div align="left">
   <h3> ⭐ &nbsp;Acerca de mí </h3>
   
-  >Soy egresado de la carrera tecnicatura superior en desarrollo de software multiplataforma🎓. Soy un aprendiz apasionado que siempre está dispuesto a aprender y trabajar en tecnologías y dominios 💡. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real ✨. Actualmente estoy en Desarrollo Web 🕸️.
+  >Soy egresado de la tecnicatura superior en desarrollo de software multiplataforma🎓. Soy un aprendiz apasionado que siempre está dispuesto a aprender y trabajar en tecnologías y dominios 💡. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real ✨. Actualmente estoy en Desarrollo Web 🕸️.
     
 
 </div>
